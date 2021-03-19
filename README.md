@@ -14,13 +14,13 @@ const WorkWith = {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["React", "Next", "Redux", "Ract Native"],
-            css: ["Boostrap", "Semantic UI", "uk-animation", "ant.design"]
+            css: ["Boostrap", "Semantic UI", "uk-animation", "Ant Design", "Material UI"]
         },
         backEnd: {
-            js: ["node", "express", "Hapi"]
+            js: ["node", "express", "Hapi", "Jwt"]
         },
         devOps: ["Apache", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "Sql Server"],
+        databases: ["Mongo db", "MySql", "Sql Server"],
         misc: ["Firebase", "php"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
