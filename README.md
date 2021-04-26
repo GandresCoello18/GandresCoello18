@@ -11,16 +11,16 @@ const WorkWith = {
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["Android App", "Ract Native", "Flutter"],
         frontEnd: {
-            js: ["React", "Next", "Redux", "Ract Native"],
+            js: ["React", "Next", "Redux"],
             css: ["Boostrap", "Semantic UI", "uk-animation", "Ant Design", "Material UI"]
         },
         backEnd: {
             js: ["node", "express", "Hapi", "Jwt"]
         },
-        devOps: ["Apache", "Docker🐳", "Nginx"],
-        databases: ["Mongo db", "MySql", "Sql Server"],
+        devOps: ["Apache", "Docker🐳", "Nginx", "CI/CD"],
+        databases: ["Mongo DB", "MySql", "Sql Server"],
         misc: ["Firebase", "php"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
