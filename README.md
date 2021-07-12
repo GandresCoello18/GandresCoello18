@@ -17,7 +17,7 @@ const WorkWith = {
             css: ["Boostrap", "Semantic UI", "uk-animation", "Ant Design", "Material UI"]
         },
         backEnd: {
-            js: ["node", "express", "Hapi", "Jwt"]
+            js: ["node", "express", "Hapi", "Jwt", "Meteor"]
         },
         devOps: ["Apache", "Docker🐳", "Nginx", "CI/CD"],
         databases: ["Mongo DB", "MySql", "Sql Server"],
