@@ -1,7 +1,10 @@
-<h2> (Developer)🙏🏻, kepp writing code. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> <span><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Developer full stack
+</em></span>, kepp writing code. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
+[![portada_github_profile](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2ZGRjN2Y0MThkNjYwYWIwMzZhNmYwZjkzODc0ZTdmMWEyODczMiZjdD1n/TKh6HiyVtgUox3yDyJ/giphy.gif)](https://www.youtube.com/@andrescoellogoyes)
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Developer full stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> conoce más de mi ...  
 
@@ -11,15 +14,15 @@ const WorkWith = {
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
-        mobileApp: ["Android App", "Ract Native", "Flutter"],
-        frontEnd: {
+        mobileApp: 📱 ["Android App", "Ract Native", "Flutter"],
+        frontEnd: 💻 {
             js: ["React", "Next", "Redux"],
             css: ["Boostrap", "Semantic UI", "uk-animation", "Ant Design", "Material UI"]
         },
-        backEnd: {
+        backEnd: 🛠 {
             js: ["node", "express", "Hapi", "Jwt", "Meteor"]
         },
-        devOps: ["Apache", "Docker🐳", "Nginx", "CI/CD"],
+        devOps: 🌍 ["Apache", "Docker🐳", "Nginx", "CI/CD"],
         databases: ["Mongo DB", "MySql", "Sql Server"],
         misc: ["Firebase", "php"]
     },
@@ -29,24 +32,4 @@ const WorkWith = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas, así que si quieres saludar,<b>¡estaré encantado de conocerte más!</b> 😊</em>
-
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
-<!--
-**GandresCoello18/GandresCoello18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me gusta conectarme con diferentes personas, así que si quieres saludar,<b>¡estaré encantado de conocerte!</b> 😊</em>
