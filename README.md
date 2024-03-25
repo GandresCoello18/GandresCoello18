@@ -11,16 +11,16 @@
 ```javascript
 const WorkWith = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    code: ["Javascript", "Typescript", "Sql", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: 📱 ["Android App", "Ract Native", "Flutter"],
         frontEnd: 💻 {
-            js: ["React", "Next", "Redux"],
+            js: ["React", "Next", "Redux", "Graphql"],
             css: ["Boostrap", "Semantic UI", "uk-animation", "Ant Design", "Material UI"]
         },
         backEnd: 🛠 {
-            js: ["node", "express", "Hapi", "Jwt", "Meteor"]
+            js: ["node", "express", "Graphql", "Hapi", "Jwt", "Meteor"]
         },
         devOps: 🌍 ["Apache", "Docker🐳", "Nginx", "CI/CD"],
         databases: ["Mongo DB", "MySql", "Sql Server"],
