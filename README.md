@@ -11,22 +11,22 @@
 ```javascript
 const WorkWith = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Sql", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript", "SQL, "Python", "PHP"],
+    askMeAbout: ["Web Dev", "Tech", "App Mobile"],
     technologies: {
         mobileApp: 📱 ["Android App", "Ract Native", "Flutter"],
         frontEnd: 💻 {
-            js: ["React", "Next", "Redux", "Graphql"],
-            css: ["Boostrap", "Semantic UI", "uk-animation", "Ant Design", "Material UI"]
+            js: ["React.js", "Next.js", "Redux", "Graphql"],
+            css: ["Boostrap", "Semantic UI", "uk-animation", "Ant Design", "Material UI", "Tailwind"]
         },
         backEnd: 🛠 {
-            js: ["node", "express", "Graphql", "Hapi", "Jwt", "Meteor"]
+            js: ["Node.js", "Express", "Graphql", "Hapi.js", "Jwt", "Meteor.js", "Hono.js", "Nest.js"]
         },
         devOps: 🌍 ["Apache", "Docker🐳", "Nginx", "CI/CD"],
-        databases: ["Mongo DB", "MySql", "Sql Server"],
-        misc: ["Firebase", "php"]
+        databases: ["MongoDB", "MySql", "Sql Server"],
+        misc: ["Firebase"]
     },
-    architecture: ["Progressive web applications", "Single page applications", "server side rendering"],
+    architecture: ["Progressive web applications", "Single page applications", "Server side rendering"],
     Projects: "Mis proyectos se basan principalmente en internet con tecnologias web, aun que aveces desarrollo algo diferente para setup o mobile",
     my motto: "Sigue escribiendo 'Code', no se trata de solo sentarte ah escribir codigo, pero aveces se entiendo mucho mejor las cosas cuando se empieza hacer y darle formar con el trascurrir el tiempo. ( Las ideas no vienen completamente formadas, solo se vuelven claras cuando trabajas en ellas, SOLO TIENES QUE EMPEZAR ) Mark Zuckerberg "
 };
