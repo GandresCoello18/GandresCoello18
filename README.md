@@ -1,4 +1,4 @@
-<h2> <span><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Developer full stack
+<h2> <span><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engineer / Full Stack Developer
 </em></span>, kepp writing code. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 [![portada_github_profile](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2ZGRjN2Y0MThkNjYwYWIwMzZhNmYwZjkzODc0ZTdmMWEyODczMiZjdD1n/TKh6HiyVtgUox3yDyJ/giphy.gif)](https://www.youtube.com/@andrescoellogoyes)
