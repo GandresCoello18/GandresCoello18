@@ -10,21 +10,20 @@
 
 ```javascript
 const WorkWith = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "SQL, "Python", "PHP"],
-    askMeAbout: ["Web Dev", "Tech", "App Mobile"],
+    askMeAbout: ["Web Dev", "Tech", "App Mobile", "Tutor"],
     technologies: {
         mobileApp: 📱 ["Android App", "Ract Native", "Flutter"],
         frontEnd: 💻 {
-            js: ["React.js", "Next.js", "Redux", "Graphql"],
+            js: ["React.js", "Next.js", "Redux", "Vue.js", "Graphql"],
             css: ["Boostrap", "Semantic UI", "uk-animation", "Ant Design", "Material UI", "Tailwind"]
         },
         backEnd: 🛠 {
             js: ["Node.js", "Express", "Graphql", "Hapi.js", "Jwt", "Meteor.js", "Hono.js", "Nest.js"]
         },
         devOps: 🌍 ["Apache", "Docker🐳", "Nginx", "CI/CD"],
-        databases: ["MongoDB", "MySql", "Sql Server"],
-        misc: ["Firebase"]
+        databases: ["Redis", "MongoDB", "MySql", "PostgreSql" "Sql Server"],
+        ssas: ["Firebase", "Supabase"]
     },
     architecture: ["Progressive web applications", "Single page applications", "Server side rendering"],
     Projects: "Mis proyectos se basan principalmente en internet con tecnologias web, aun que aveces desarrollo algo diferente para setup o mobile",
