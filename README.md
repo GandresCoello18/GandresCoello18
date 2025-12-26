@@ -6,14 +6,22 @@
 
 ## About Me
 
-I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
+💻 Full Stack Developer with over 8 years of experience developing intuitive, functional, and impactful web and mobile applications and scalable architectures. Experience in performance optimization and API design. Experience leading projects, creating SDKs, and applying best development practices. I have a strong backend focus and real-world experience in DevOps (Docker, CI/CD, GitHub Actions). I am passionate about building scalable, robust, and modern web applications that solve real-world problems.
 
-🌿 Trying to become a better person every day.
-</br>
-⌛ I enjoy personal development and productivity.
-</br>
-🫂 I enjoy working in teams and collaborating with other people.
-</br>
+👨‍💻 I have worked with companies in Ecuador, Mexico, the USA, and Spain, developing solutions for sectors such as gastronomy, education, and entertainment. From scalable architectures to scraping and automated deployments, I am involved in all phases of development.
+
+🔧Key technologies:
+TypeScript, Node.js, React, Next.js, Nest.js, React Native, Meteor.js, Blaze, i18n, Bash, Redux, Web Scraping, Git, Firebase, SupaBase, Vue, PostgreSQL (RLS), Multi-tenant, Google Auth, MongoDB, ORM, Redis, Docker, AWS, Prisma, GraphQL, Microservices, Socket.io, Python, Flask, Jest, End-to-End (E2E), Cypress, CI/CD, GitHub Shares.
+
+🧠 I also enjoy teaching: I've given over 150 custom web and mobile development classes and have been an instructor at bootcamps, helping others understand everything from best practices to deployments.
+
+🚀 I'm always learning, exploring new tools, and contributing to challenging projects. I'm looking to join ambitious tech teams where I can continue to grow as a developer and contribute technical value.
+
+💬 I'm open to opportunities as:
+- Frontend Developer / React.js / Next.js
+- Backend Developer / Node.js / Nest.js
+- DevOps/SRE
+- Technical Educator / Tech Advocate
 
 ## Technologies:
 
