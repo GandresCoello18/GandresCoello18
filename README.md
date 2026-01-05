@@ -20,7 +20,7 @@ TypeScript, Node.js, React, Next.js, Nest.js, React Native, Meteor.js, Blaze, i1
 💬 I'm open to opportunities as:
 - Frontend Developer / React.js / Next.js
 - Backend Developer / Node.js / Nest.js
-- DevOps/SRE
+- DevOps / SRE
 - Technical Educator / Tech Advocate
 
 ## Technologies:
