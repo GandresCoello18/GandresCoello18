@@ -23,6 +23,8 @@ TypeScript, Node.js, React, Next.js, Nest.js, React Native, Meteor.js, Blaze, i1
 - DevOps / SRE
 - Technical Educator / Tech Advocate
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gandrescoello18?cardType=github&theme=github-dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+
 ## Technologies:
 
 <div align="left">
