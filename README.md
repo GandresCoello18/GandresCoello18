@@ -131,7 +131,7 @@ TypeScript, Node.js, React, Next.js, Nest.js, React Native, Meteor.js, Blaze, i1
 ## Links:
 [![Website](https://img.shields.io/badge/Website-Andres_Coello_Goyes-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://andres-coello-goyes.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-@coellogoyes-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/coellogoyes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Andres_roberto_coello_goyes-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andr%C3%A9s-roberto-coello-goyes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Andres_roberto_coello_goyes-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrescoellogoyes/)
 [![Linktree](https://img.shields.io/badge/Linktree-@gandrescoello-487FCF?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://linktr.ee/gandrescoello)
 
 ## Contact:
