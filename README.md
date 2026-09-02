@@ -1,7 +1,7 @@
-<h2> <span><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engineer / Full Stack Developer
-</em></span>, kepp writing code. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1> <span><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engineer / Full Stack Developer / Tech Advocate
+</em></span>. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
-[![portada_github_profile](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2ZGRjN2Y0MThkNjYwYWIwMzZhNmYwZjkzODc0ZTdmMWEyODczMiZjdD1n/TKh6HiyVtgUox3yDyJ/giphy.gif)](https://www.youtube.com/@andrescoellogoyes)
+[![portada_github_profile](https://github.com/user-attachments/assets/a6d9d854-6076-4d2e-92d6-87726c1cd5c9)](https://www.youtube.com/@andrescoellogoyes)
 
 
 ## About Me
@@ -23,7 +23,8 @@ TypeScript, Node.js, React, Next.js, Nest.js, React Native, Meteor.js, Blaze, i1
 - DevOps / SRE
 - Technical Educator / Tech Advocate
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gandrescoello18?cardType=github&theme=github-dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GandresCoello18?cardType=level&theme=tokyonight&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+
 
 ## Technologies:
 
