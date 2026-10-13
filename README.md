@@ -1,30 +1,40 @@
-<h1> <span><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engineer / Full Stack Developer / Tech Advocate
-</em></span>. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+# AndrÃ©s Coello Goyes
+
+**Backend Software Engineer** Â· Node.js Â· TypeScript Â· NestJS Â· PostgreSQL Â· AWS
+
+[![Website](https://img.shields.io/badge/andrescoellog.com-Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://andrescoellog.com)
+
+ðŸŒ Portfolio, experience and projects: **[andrescoellog.com](https://andrescoellog.com)**
 
 [![portada_github_profile](https://github.com/user-attachments/assets/a6d9d854-6076-4d2e-92d6-87726c1cd5c9)](https://www.youtube.com/@andrescoellogoyes)
 
-
 ## About Me
 
-💻 Full Stack Developer with over 8 years of experience developing intuitive, functional, and impactful web and mobile applications and scalable architectures. Experience in performance optimization and API design. Experience leading projects, creating SDKs, and applying best development practices. I have a strong backend focus and real-world experience in DevOps (Docker, CI/CD, GitHub Actions). I am passionate about building scalable, robust, and modern web applications that solve real-world problems.
+ðŸ’» Backend Software Engineer with 8+ years of experience building APIs, scalable architectures and products end to end, plus full stack experience on web and mobile.
 
-👨‍💻 I have worked with companies in Ecuador, Mexico, the USA, and Spain, developing solutions for sectors such as gastronomy, education, and entertainment. From scalable architectures to scraping and automated deployments, I am involved in all phases of development.
+ðŸ—ï¸ **DevLokos â€” Backend Engineer:** AI assistants with Gemini + RAG, ERP integrations, REST APIs and BFF layers, and e-commerce platforms with payment gateways. I care about good practices: clean architecture, testing and CI/CD.
 
-🔧Key technologies:
-TypeScript, Node.js, React, Next.js, Nest.js, React Native, Meteor.js, Blaze, i18n, Bash, Redux, Web Scraping, Git, Firebase, SupaBase, Vue, PostgreSQL (RLS), Multi-tenant, Google Auth, MongoDB, ORM, Redis, Docker, AWS, Prisma, GraphQL, Microservices, Socket.io, Python, Flask, Jest, End-to-End (E2E), Cypress, CI/CD, GitHub Shares.
+ðŸ½ï¸ **Meniuz:** multi-tenant SaaS used by 500+ restaurants â€” multi-tenant architecture, performance and product delivery.
 
-🧠 I also enjoy teaching: I've given over 150 custom web and mobile development classes and have been an instructor at bootcamps, helping others understand everything from best practices to deployments.
+ðŸŽ¤ **Tech educator:** 160+ classes, plus talks at GDG, DevFest and IEEE events.
 
-🚀 I'm always learning, exploring new tools, and contributing to challenging projects. I'm looking to join ambitious tech teams where I can continue to grow as a developer and contribute technical value.
+ðŸŒŽ I have worked with companies and clients in Ecuador, Mexico, the USA and Spain.
 
-💬 I'm open to opportunities as:
-- Frontend Developer / React.js / Next.js
-- Backend Developer / Node.js / Nest.js
-- DevOps / SRE
-- Technical Educator / Tech Advocate
+ðŸ’¬ Open to opportunities as:
+- Backend Engineer Â· Node.js / NestJS
+- Full Stack Engineer Â· TypeScript / React / Next.js
+- Technical Educator
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GandresCoello18?cardType=level&theme=tokyonight&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+## Proyectos destacados
 
+| Project | What it shows |
+|---|---|
+| [order-lifecycle-platform](https://github.com/GandresCoello18/order-lifecycle-platform) | Event-driven microservices with NestJS, NX monorepo, Redis + BullMQ and PostgreSQL |
+| [image-intelligence-job](https://github.com/GandresCoello18/image-intelligence-job) | NX monorepo: API + worker queue (Redis, MongoDB, MinIO) for async image analysis |
+| [Bob-s-Corn-API](https://github.com/GandresCoello18/Bob-s-Corn-API) | REST API with rate limiting, clean architecture, Prisma, PostgreSQL and E2E tests |
+| [Lyrics-Semantic-Search](https://github.com/GandresCoello18/Lyrics-Semantic-Search) | Semantic search with embeddings (Gemini) and Qdrant, Node.js + TypeScript + Hapi |
+
+More projects at **[andrescoellog.com](https://andrescoellog.com)**.
 
 ## Technologies:
 
@@ -122,8 +132,6 @@ TypeScript, Node.js, React, Next.js, Nest.js, React Native, Meteor.js, Blaze, i1
   <img src="https://skillicons.dev/icons?i=sentry" height="40" alt="sentry logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn logo"  />
 </div>
