@@ -1,28 +1,28 @@
-# AndrÃ©s Coello Goyes
+# Andrés Coello Goyes
 
-**Backend Software Engineer** Â· Node.js Â· TypeScript Â· NestJS Â· PostgreSQL Â· AWS
+**Backend Software Engineer** · Node.js · TypeScript · NestJS · PostgreSQL · AWS
 
 [![Website](https://img.shields.io/badge/andrescoellog.com-Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://andrescoellog.com)
 
-ðŸŒ Portfolio, experience and projects: **[andrescoellog.com](https://andrescoellog.com)**
+🌐 Portfolio, experience and projects: **[andrescoellog.com](https://andrescoellog.com)**
 
 [![portada_github_profile](https://github.com/user-attachments/assets/a6d9d854-6076-4d2e-92d6-87726c1cd5c9)](https://www.youtube.com/@andrescoellogoyes)
 
 ## About Me
 
-ðŸ’» Backend Software Engineer with 8+ years of experience building APIs, scalable architectures and products end to end, plus full stack experience on web and mobile.
+💻 Backend Software Engineer with 8+ years of experience building APIs, scalable architectures and products end to end, plus full stack experience on web and mobile.
 
-ðŸ—ï¸ **DevLokos â€” Backend Engineer:** AI assistants with Gemini + RAG, ERP integrations, REST APIs and BFF layers, and e-commerce platforms with payment gateways. I care about good practices: clean architecture, testing and CI/CD.
+🏗️ **DevLokos — Backend Engineer:** AI assistants with Gemini + RAG, ERP integrations, REST APIs and BFF layers, and e-commerce platforms with payment gateways. I care about good practices: clean architecture, testing and CI/CD.
 
-ðŸ½ï¸ **Meniuz:** multi-tenant SaaS used by 500+ restaurants â€” multi-tenant architecture, performance and product delivery.
+🍽️ **Meniuz:** multi-tenant SaaS used by 500+ restaurants — multi-tenant architecture, performance and product delivery.
 
-ðŸŽ¤ **Tech educator:** 160+ classes, plus talks at GDG, DevFest and IEEE events.
+🎤 **Tech educator:** 160+ classes, plus talks at GDG, DevFest and IEEE events.
 
-ðŸŒŽ I have worked with companies and clients in Ecuador, Mexico, the USA and Spain.
+🌎 I have worked with companies and clients in Ecuador, Mexico, the USA and Spain.
 
-ðŸ’¬ Open to opportunities as:
-- Backend Engineer Â· Node.js / NestJS
-- Full Stack Engineer Â· TypeScript / React / Next.js
+💬 Open to opportunities as:
+- Backend Engineer · Node.js / NestJS
+- Full Stack Engineer · TypeScript / React / Next.js
 - Technical Educator
 
 ## Proyectos destacados
